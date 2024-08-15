@@ -13,3 +13,8 @@ Fruits For You is a web application that recommends fruits based on a user's hea
     EJS (Embedded JavaScript templating)
     Google Generative AI
     Bootstrap for styling
+
+## Future Extensions
+- picture of fruits
+- daily facts about health and fruits i got an public api for that but missed it so search it again!
+- fruit diet for 1 week, 1 month, 2 months plan etc.
